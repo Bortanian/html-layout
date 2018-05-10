@@ -1,0 +1,22 @@
+body{
+    background: #bebebe;
+    height: 100vh;
+}
+header{
+    
+    height: 15%;
+    background: rgb(95, 95, 95);
+
+}
+.white-box{
+    background: white;
+    width: 70%;
+    height: 75%;
+    margin: 0 auto;
+}
+.black-box{
+    background: black;
+    width: 70%;
+    height: 10%;
+    margin: 0 auto;
+}
